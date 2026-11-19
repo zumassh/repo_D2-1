@@ -1,1 +1,2 @@
-print("Hello Git!")
+num = int(input())
+print(num)
